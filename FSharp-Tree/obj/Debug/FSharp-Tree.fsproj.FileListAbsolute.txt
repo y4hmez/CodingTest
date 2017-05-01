@@ -1,0 +1,9 @@
+C:\Dev\CodingTest\FSharp-Tree\bin\Debug\FSharp_Tree.exe.config
+C:\Dev\CodingTest\FSharp-Tree\bin\Debug\FSharp_Tree.XML
+C:\Dev\CodingTest\FSharp-Tree\bin\Debug\FSharp_Tree.exe
+C:\Dev\CodingTest\FSharp-Tree\bin\Debug\FSharp_Tree.pdb
+C:\Dev\CodingTest\FSharp-Tree\bin\Debug\FSharp.Core.dll
+C:\Dev\CodingTest\FSharp-Tree\bin\Debug\System.ValueTuple.dll
+C:\Dev\CodingTest\FSharp-Tree\bin\Debug\FSharp.Core.xml
+C:\Dev\CodingTest\FSharp-Tree\obj\Debug\FSharp_Tree.exe
+C:\Dev\CodingTest\FSharp-Tree\obj\Debug\FSharp_Tree.pdb
