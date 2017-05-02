@@ -1,13 +1,7 @@
 ﻿// Learn more about F# at http://fsharp.org
 // See the 'F# Tutorial' project for more help.
 open System
-
-
-type Node = { 
-            Left:Option<Node>;
-            Right:Option<Node>;
-            Int:int 
-        }
+open Node
 
 let root:Option<Node> = Some { 
 
@@ -47,30 +41,18 @@ let root:Option<Node> = Some {
 
 };
  
-
-let rec findNode (root:Option<Node>) n:int =
-    match root with
-    | None -> 
-        printfn "not found %i" n
-        n
-    | Some root ->
-            match root.Int  with
-            | x  when x=n ->
-                    printfn "found %i" n
-                    n
-            | x when x<n -> 
-                    printfn  "search value %i greater than %i" n x
-                    findNode root.Right n
-            | x when x>n -> 
-                    printfn  "search value %i less than %i" n x
-                    findNode root.Left n
-
-
+    
+    
 [<EntryPoint>]
 let main argv = 
     printfn "%A" argv
 
-    findNode root 14
+    let searchNumber = 14
+    //let found = findNode root 14
+    let NumberIsInTree = findNode root
+
+
+    printfn "Number (%i) is in tree: %O" searchNumber (NumberIsInTree searchNumber)
 
     Console.ReadKey() |> ignore
    
