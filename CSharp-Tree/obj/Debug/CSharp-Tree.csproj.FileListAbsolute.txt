@@ -1,0 +1,6 @@
+C:\Develop\CodingTest\CSharp-Tree\bin\Debug\CSharp-Tree.exe.config
+C:\Develop\CodingTest\CSharp-Tree\bin\Debug\CSharp-Tree.exe
+C:\Develop\CodingTest\CSharp-Tree\bin\Debug\CSharp-Tree.pdb
+C:\Develop\CodingTest\CSharp-Tree\obj\Debug\CSharp-Tree.csprojResolveAssemblyReference.cache
+C:\Develop\CodingTest\CSharp-Tree\obj\Debug\CSharp-Tree.exe
+C:\Develop\CodingTest\CSharp-Tree\obj\Debug\CSharp-Tree.pdb
