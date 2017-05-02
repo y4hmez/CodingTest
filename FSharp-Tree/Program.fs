@@ -49,7 +49,13 @@ let main argv =
 
     let searchNumber = 14
     //let found = findNode root 14
-    let NumberIsInTree = findNode root
+    //let NumberIsInTree = findNode root
+    //let foundNode = getNode root searchNumber
+
+    let NumberIsInTree = getNode root                                     
+
+    printfn "Found Node = %A" foundNode
+
 
 
     printfn "Number (%i) is in tree: %O" searchNumber (NumberIsInTree searchNumber)
