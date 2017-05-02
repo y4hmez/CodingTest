@@ -23,8 +23,10 @@ namespace CSharp_Tree
                     new Node<int>(22, null, null)                        
                 );
 
-            Node<int>.ValueIsInTree(root, 14);
-
+            //Node<int>.ValueIsInTree(root, 14);
+            var node = Node<int>.GetNodeWhile(root, 14);
+            //GetNodeWhile
+            Console.WriteLine(node.ToString());
 
             Console.ReadKey();
 
