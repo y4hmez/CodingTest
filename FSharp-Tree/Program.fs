@@ -54,7 +54,7 @@ let main argv =
 
     let NumberIsInTree = getNode root                                     
 
-    printfn "Found Node = %A" foundNode
+    //printfn "Found Node = %A" foundNode
 
 
 

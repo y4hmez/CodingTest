@@ -4,3 +4,9 @@ C:\Develop\CodingTest\CSharp-Tree\bin\Debug\CSharp-Tree.pdb
 C:\Develop\CodingTest\CSharp-Tree\obj\Debug\CSharp-Tree.csprojResolveAssemblyReference.cache
 C:\Develop\CodingTest\CSharp-Tree\obj\Debug\CSharp-Tree.exe
 C:\Develop\CodingTest\CSharp-Tree\obj\Debug\CSharp-Tree.pdb
+C:\Dev\CodingTest\CSharp-Tree\bin\Debug\CSharp-Tree.exe.config
+C:\Dev\CodingTest\CSharp-Tree\bin\Debug\CSharp-Tree.exe
+C:\Dev\CodingTest\CSharp-Tree\bin\Debug\CSharp-Tree.pdb
+C:\Dev\CodingTest\CSharp-Tree\obj\Debug\CSharp-Tree.exe
+C:\Dev\CodingTest\CSharp-Tree\obj\Debug\CSharp-Tree.pdb
+C:\Dev\CodingTest\CSharp-Tree\obj\Debug\CSharp-Tree.csprojResolveAssemblyReference.cache
