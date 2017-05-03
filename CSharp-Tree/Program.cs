@@ -24,9 +24,14 @@ namespace CSharp_Tree
                 );
 
             //Node<int>.ValueIsInTree(root, 14);
-            var node = Node<int>.GetNodeWhile(root, 14);
+            //var node = Node<int>.GetNodeWhile(root, 14);
             //GetNodeWhile
+            //Console.WriteLine(node.ToString());
+            //Node<int>.PreOrderTraversalNoRec(root);
+
+            var node = Node<int>.FindLowestCommonAncestorWhile(root, 4, 14);
             Console.WriteLine(node.ToString());
+            //Node<int>.PreOrderTraversal(root);
 
             Console.ReadKey();
 
