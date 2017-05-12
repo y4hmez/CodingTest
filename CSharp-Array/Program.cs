@@ -10,14 +10,16 @@ namespace CSharp_Array
     {
         static void Main(string[] args)
         {
-            var arr = "total".ToArray();            
-            var c = Array.FindFirstNonRepeat(arr);
+            //var arr = "total".ToArray();            
+            //var c = Array.FindFirstNonRepeat(arr);
+
+            //var c  =Array.RemoveChars("Battle of the Vowels: Hawaii vs. Grozny", "aeiou");
+            //var c = Array.ReverseWord("word".ToArray());
+            var c = Array.ReverseWords("de blah back".ToCharArray());
 
             Console.WriteLine(c);
 
-            Console.WriteLine(arr);
-
-
+            //Console.WriteLine(arr);
 
             Console.ReadKey();
         }
